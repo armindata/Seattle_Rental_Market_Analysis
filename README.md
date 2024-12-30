@@ -10,18 +10,20 @@ Explore revenue patterns over the year to highlight seasonality in demand.
 Examine property listings by the number of bedrooms and average price per bedroom.
 Visualize geographic data to showcase high-revenue and affordable areas in Seattle.
 Project Features
----
+
 Key Insights:
+---
 Price Per Zip Code:
 
 Rental prices vary significantly across neighborhoods, with premium zip codes like 98119 and 98134 commanding higher prices.
 Budget-friendly options are concentrated in zip codes such as 98146 and 98178.
----
+
 Revenue Trends:
+---
 
 Revenue peaks during specific months, indicating seasonality and potential high-demand periods.
 Total revenue exhibits a steady growth pattern over the year.
----
+
 Bedroom Analysis:
 ---
 The majority of listings are one-bedroom properties, making them the most common option for renters.
