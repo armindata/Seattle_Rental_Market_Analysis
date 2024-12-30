@@ -23,7 +23,7 @@ Revenue peaks during specific months, indicating seasonality and potential high-
 Total revenue exhibits a steady growth pattern over the year.
 ---
 Bedroom Analysis:
-
+---
 The majority of listings are one-bedroom properties, making them the most common option for renters.
 Properties with more bedrooms (e.g., 6-bedroom homes) generate the highest revenue per bedroom.
 Visualization:
